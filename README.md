@@ -1,8 +1,8 @@
 # Modal
 
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](tarunsinghdev.github.io/modal/)
-[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)](tarunsinghdev.github.io/modal/)&nbsp;![Made with Love in India](https://madewithlove.org.in/badge.svg)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://tarunsinghdev.github.io/modal/)
+[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)](https://tarunsinghdev.github.io/modal/)&nbsp;![Made with Love in India](https://madewithlove.org.in/badge.svg)
 
 **Simple Modal with Pure Javascript.**
 ## Get Your App : [Modal](https://tarunsinghdev.github.io/modal/) 
